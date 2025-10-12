@@ -18,13 +18,13 @@
 - Movie Booking MERN App
 - More on my Repositories tab.
 
----
+\\---
 
 ### 📈 GitHub Stats
 ![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal2305&show_icons=true&theme=radical)
 
----
+---\\
 
 ### 📫 Connect with me!
 - LinkedIn: https://linkedin.com/in/kamalesh-t-t-988a76214
-- Email: kamal4projects@gmail.com
+- Email: ttkamalesh123@gmail.com
