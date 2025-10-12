@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kamalesh T T 👋
+💻 Frontend Developer | MERN Stack Enthusiast
+🏙️ Chennai, India
+🔗 LinkedIn: https://linkedin.com/in/kamalesh-t-t-988a76214
 
-<!--
-**kamal2305/kamal2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Languages: JavaScript, HTML, CSS
+- Frameworks/Libraries: React, Node.js, Express, MongoDB
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- Primary Portfolio: https://kamal2305.github.io/Primary-Portfolio/
+- Disney Plus Hotstar Clone
+- Movie Booking MERN App
+- More on my Repositories tab.
+
+---
+
+### 📈 GitHub Stats
+![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal2305&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me!
+- LinkedIn: https://linkedin.com/in/kamalesh-t-t-988a76214
+- Email: kamal4projects@gmail.com
