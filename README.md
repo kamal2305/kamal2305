@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Projects
-- Primary Portfolio: https://kamal2305.github.io/Primary-Portfolio/
+- Primary Portfolio: https://kamal2305.github.io/Protfolio_kamalesh/
 - Disney Plus Hotstar Clone
 - Movie Booking MERN App
 - More on my Repositories tab.
